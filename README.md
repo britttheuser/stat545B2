@@ -19,7 +19,7 @@ The development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("stat545ubc-2021/functions-britttheuser")
+devtools::install_github("britttheuser/stat545B2")
 ```
 
 ## Example
